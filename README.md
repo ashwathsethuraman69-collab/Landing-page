@@ -1,3 +1,2 @@
 # Landing-page
-My landing page
-References:
+evil Gangs landing page
