@@ -60,6 +60,14 @@ a{
     text-align: center;
 }
 
-.quote{
+.quotes{
     text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.quote-sayer{
+    margin-left: 100px;
 }
