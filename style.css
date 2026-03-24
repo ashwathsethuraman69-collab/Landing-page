@@ -71,3 +71,18 @@ h2{
 .quote-sayer{
     margin-left: 100px;
 }
+
+span{
+    color: white;
+}
+
+.action{
+    text-align: center;
+    display: flex;
+    flex-flow: nowrap column;
+}
+
+.button{
+    display: flex;
+    align-self: center;
+}
