@@ -161,7 +161,7 @@ button{
     margin-right: 100px;
 }
 
-.quote, .quote-sayer{
+.quote{
     font-weight: 300;
     font-size: 36px;
     font-style: italic;
@@ -176,4 +176,9 @@ button{
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #1F2937;
+}
+
+.quote-sayer{
+    font-weight: bold;
+    font-size: 20px;
 }
